@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="510.821" height="373.889" viewBox="0 0 510.821 373.889">
+  <defs>
+    <filter id="image" x="0" y="0" width="510.821" height="373.889" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="17.5" result="blur"/>
+      <feFlood flood-opacity="0.031"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="186" height="44" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1.014" y2="0.578" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6294a2"/>
+      <stop offset="1" stop-color="#58c3dd"/>
+    </linearGradient>
+    <filter id="Rectangle_2" x="77.844" y="234.5" width="216" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" y1="0" x2="0.85" y2="0.871" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Promotion_" data-name="Promotion " transform="translate(-47.515 -208.5)">
+    <g id="block" transform="translate(100.015 256)">
+      <g transform="matrix(1, 0, 0, 1, -52.5, -47.5)" filter="url(#image)">
+        <rect id="image-2" data-name="image" width="405.821" height="268.889" rx="7" transform="translate(52.5 47.5)" fill="#fcfcfc"/>
+      </g>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(140.394 395)">
+      <g id="Rectangle_4" data-name="Rectangle 4" fill="#fcfcfc" stroke="#efefef" stroke-width="1">
+        <rect width="319.303" height="38" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="318.303" height="37" rx="3.5" fill="none"/>
+      </g>
+      <text id="Insert_your_email_here_" data-name="Insert your email here…" transform="translate(14.501 25)" fill="#404040" font-size="15" font-family="AcuminPro-Regular, Acumin Pro" letter-spacing="0.025em" opacity="0.511"><tspan x="0" y="0">Insert your email here…</tspan></text>
+    </g>
+    <text id="Don_t_miss_our_weekly_newsletter_with_lots_of_guides_and_articles_" data-name="Don’t miss our weekly newsletter with lots of guides and articles!" transform="translate(140.394 343)" fill="#404040" font-size="15" font-family="AcuminPro-Regular, Acumin Pro" opacity="0.569"><tspan x="0" y="11">Don’t miss our weekly newsletter with lots of </tspan><tspan x="0" y="32">guides and articles!</tspan></text>
+    <g id="Symbol_4_2" data-name="Symbol 4 – 2" transform="translate(140.359 455)" clip-path="url(#clip-path)">
+      <g transform="matrix(1, 0, 0, 1, -92.84, -246.5)" filter="url(#Rectangle_2)">
+        <rect id="Rectangle_2-2" data-name="Rectangle 2" width="186" height="44" rx="22" transform="translate(92.84 246.5)" fill="url(#linear-gradient)"/>
+      </g>
+      <text id="Subscribe" transform="translate(93 27)" fill="#f0f0f0" font-size="17" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="-37.383" y="0">Subscribe</tspan></text>
+    </g>
+    <g id="Title" transform="translate(140.394 293)">
+      <text id="Subscribe_to_travel_news" data-name="Subscribe to travel news" transform="translate(26.93 19)" fill="#404040" font-size="26" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Subscribe to travel news</tspan></text>
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="5.179" cy="5" rx="5.179" ry="5" transform="translate(0 6)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
